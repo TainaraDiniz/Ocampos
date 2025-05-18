@@ -405,6 +405,7 @@ div.lista-de-servicos{
       margin: 0;
       flex-wrap: wrap;
       padding-bottom: 10px;
+      padding-right: 10px;
 }
 
 
